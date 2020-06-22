@@ -1,8 +1,0 @@
-(fp_lib_table
-  (lib (name digikey-footprints)(type KiCad)(uri /Users/diogosergio/Downloads/digikey-kicad-library-master/digikey-footprints.pretty)(options "")(descr ""))
-  (lib (name ap1509-footprints)(type KiCad)(uri /Users/diogosergio/Downloads/ul_AP150950SG13/KiCAD/2020-05-25_18-25-11/footprints.pretty)(options "")(descr ""))
-  (lib (name 1n5819-footprints)(type KiCad)(uri /Users/diogosergio/Downloads/ul_1N5819E354/KiCAD/2020-05-25_20-24-45/footprints.pretty)(options "")(descr ""))
-  (lib (name SC30680KT-footprints)(type KiCad)(uri /Users/diogosergio/Downloads/ul_SC30680KT/KiCAD/2020-05-25_20-34-37/footprints.pretty)(options "")(descr ""))
-  (lib (name R-785.0-0)(type KiCad)(uri /Users/diogosergio/Downloads/R-785.0-0.5)(options "")(descr ""))
-  (lib (name A4988_STEPPER_MOTOR_DRIVER_CARRIER)(type KiCad)(uri /Users/diogosergio/Downloads/A4988_STEPPER_MOTOR_DRIVER_CARRIER)(options "")(descr ""))
-)
